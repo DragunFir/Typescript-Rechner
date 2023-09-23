@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️]
 
-In diesem Projekt habe ich für die Mögliche Web anwedung für einen Online Rechner die Hintergrundarbeit geschriben. Das Projekt ist auf TypeScritp ausgelegt. Es steht für alle zur Verfügung. Es wird hier drin immer wieder erweiterung drin geben für weiter Anwendungs Möglichkeiten. Villeicht auch andere Bereiche wo Berechnungen durchgeführt werden. 
+In diesem Projekt habe ich die Hintergrundarbeit für eine mögliche Webanwendung eines Online-Rechners geschrieben. Das Projekt ist auf TypeScript ausgelegt und steht allen zur Verfügung. Es wird punktuel erweitert, um weitere Anwendungsmöglichkeiten zu bieten, möglicherweise auch in anderen Bereichen, in denen Berechnungen durchgeführt werden.
 
 ## Derzeitiger Einsatzbereich
 
