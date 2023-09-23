@@ -12,8 +12,7 @@ In diesem Projekt habe ich für die Mögliche Web anwedung für einen Online Rec
 
 * Kreis
 * Dreieck
-* Rechteck
-  
+* Rechteck 
 * Kegel
 * Pyramide 
 
