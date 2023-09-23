@@ -8,6 +8,15 @@ In diesem Projekt habe ich für die Mögliche Web anwedung für einen Online Rec
 
 ### Mathe
 #### Geometrie 
+#### Vorhandende Formen
+
+* Kreis
+* Dreieck
+* Rechteck
+  
+* Kegel
+* Pyramide 
+
 ##### 2D-Formen
 * Flächeninhalt
 * Umfang
