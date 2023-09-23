@@ -7,5 +7,11 @@ In diesem Projekt habe ich für die Mögliche Web anwedung für einen Online Rec
 ## Derzeitiger Einsatzbereich
 
 ### Mathe
-#### Geometrie
-* 
+#### Geometrie 
+##### 2D-Formen
+* Flächeninhalt
+* Umfang
+* Durchmesser
+##### 3D-Formen
+* Funktionen der 2D möglichkeiten
+* Volume
