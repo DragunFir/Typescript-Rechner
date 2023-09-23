@@ -1,4 +1,4 @@
-import { Form } from "./Form";
+import { Form } from "../Basisklasse/Form"
 
 export class Dreieck extends Form{
   _seiteA:number

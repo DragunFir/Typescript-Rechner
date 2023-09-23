@@ -1,4 +1,4 @@
-import { Form } from "./Form";
+import { Form } from "../Basisklasse/Form";
 
 export class Kreis extends Form{
   _radius:number
