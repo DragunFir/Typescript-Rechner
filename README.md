@@ -14,7 +14,7 @@ In diesem Projekt habe ich für die Mögliche Web anwedung für einen Online Rec
 * Dreieck
 * Rechteck 
 * Kegel
-* Pyramide 
+* Quadratische Pyramide 
 
 ##### 2D-Formen
 * Flächeninhalt
