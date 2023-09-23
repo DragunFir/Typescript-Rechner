@@ -12,6 +12,8 @@ let kegel: Kegel = new Kegel("blue",5,8)
 let kreis: Kreis = new Kreis(7,"yellow")
 let rechteck: Rechteck = new Rechteck("black",10,3)
 
-console.log("Kegel Flächeninhalt: " + kegel.berechneFläche())
-console.log("Kreis Flächeninhalt: " + kreis.berechneFläche())
+console.log("Kreis \n Kegel Flächeninhalt: " + kegel.berechneFläche()
+            +"\n ")
+console.log("Kreis \n Flächeninhalt: " + kreis.berechneFläche() + 
+            "\n Umfang: " + kreis.berechneUmfang())
 console.log("Rechtecke Flächeninhalt: " + rechteck.berechneFläche())

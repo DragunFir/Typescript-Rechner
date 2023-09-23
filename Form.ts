@@ -6,6 +6,18 @@ export abstract class Form{
   }
 
   public berechneFläche(): number{
-    return 0.00;
+    return 0;
+  }
+
+  public berechneVolume(): number{
+    return 0;
+  }
+
+  public berechneUmfang(): number{
+    return 0;
+  }
+
+  public berechneDurchmesser():number{
+    return 0;
   }
 }

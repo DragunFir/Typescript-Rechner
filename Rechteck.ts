@@ -11,6 +11,10 @@ export class Rechteck extends Form{
   }
 
   public berechneFläche():number{
-    return this._breite*this._höhe
+    return this._breite*this._höhe;
+  }
+
+  public berechneUmfang():number{
+    return 2*this._breite + 2*this._höhe;
   }
 }
