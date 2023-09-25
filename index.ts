@@ -18,4 +18,4 @@ console.log("Kreis \n Kegel Flächeninhalt: " + kegel.berechneFläche()
             +"\n ")
 console.log("Kreis \n Flächeninhalt: " + kreis.berechneFläche() + 
             "\n Umfang: " + kreis.berechneUmfang())
-console.log("Rechtecke Flächeninhalt: " + rechteck.berechneFläche())
+console.log("Rechtecke \n Flächeninhalt: " + rechteck.berechneFläche())
