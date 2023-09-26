@@ -14,7 +14,7 @@ export class Kegel extends Form{
     this._höhe = höhe
   }
 
-  public berechneFläche():number {
+  berechneFläche():number {
 
     this._Grundfläche = Math.PI * Math.pow(this._radius,2)
     this._Mantellinie = Math.sqrt(Math.pow(this._höhe,2) + Math.pow(this._radius,2))
@@ -24,16 +24,16 @@ export class Kegel extends Form{
     return this._Oberfläche;
   }
 
-  public berechneUmfang():number{
+  berechneUmfang():number{
     this._Mantellinie = Math.sqrt(Math.pow(this._höhe,2) + Math.pow(this._radius,2))
     return (2* Math.PI * this._radius) + this._Mantellinie
   }
 
-  public berechneVolume():number{
+  berechneVolume():number{
     return (1/3 * Math.PI) * Math.pow(this._radius,2) * this._höhe
   }
 
-  public berechneDurchmesser():number{
+  berechneDurchmesser():number{
     return 2 * this._radius;
   }
 }

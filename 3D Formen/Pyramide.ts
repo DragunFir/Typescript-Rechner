@@ -12,16 +12,16 @@ export class Pyramide extends Form{
     this._seite = seite
   }
 
-  public berechneVolume():number{
+  berechneVolume():number{
     return (Math.pow(this._seite,2) * this._höhe)/3;
   }
 
-  public berechneFläche():number{
+  berechneFläche():number{
     this._schrägenhöhe = Math.sqrt(Math.pow(this._höhe,2) + Math.pow((this._seite/2),2))
     return Math.pow(this._seite,2) + 2 * this._seite * this._höhe;
   }
 
-  public berechneUmfang():number{
+  berechneUmfang():number{
     this._seitenflächen = Math.sqrt(Math.pow(this._höhe,2) + Math.pow(this._seite,2))
     return (4 * this._seite) * (4 * this._seitenflächen)
   }

@@ -14,11 +14,11 @@ export class Dreieck extends Form{
     this._höhe = höhe
   }
 
-  public berechneUmfang():number{
+  berechneUmfang():number{
     return this._seiteA + this._seiteB + this._grundseite
   }
 
-  public berechneFläche():number{
+  berechneFläche():number{
     return 1/2 * this._grundseite * this._höhe
   }
 }

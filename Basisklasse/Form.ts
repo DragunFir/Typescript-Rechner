@@ -5,19 +5,19 @@ export abstract class Form{
     this._farbe = farbe
   }
 
-  public berechneFläche(): number{
+  berechneFläche(): number{
     return 0;
   }
 
-  public berechneVolume(): number{
+  berechneVolume(): number{
     return 0;
   }
 
-  public berechneUmfang(): number{
+  berechneUmfang(): number{
     return 0;
   }
 
-  public berechneDurchmesser():number{
+  berechneDurchmesser():number{
     return 0;
   }
 }

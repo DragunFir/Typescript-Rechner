@@ -8,15 +8,15 @@ export class Kreis extends Form{
     this._radius=radius
   }
 
-  public berechneFläche():number{
+  berechneFläche():number{
     return Math.PI * Math.pow(this.radius,2);
   }
 
-  public berechneUmfang():number{
+  berechneUmfang():number{
     return (2*Math.PI) * this.radius;
   }
   
-  public berechneDurchmesser(){
+  berechneDurchmesser(){
     return 2 * this._radius;
   }
 }
