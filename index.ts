@@ -17,7 +17,7 @@ let rechteck: Rechteck = new Rechteck("black",10,3)
 let dreieck: Dreieck = new Dreieck("pink", 5, 9, 10, 8)
 let pyramide: Pyramide = new Pyramide("green", 9, 8);
 
-console.log("Kreis \n Kegel Flächeninhalt: " + kegel.berechneFläche()
+console.log("Kegel \n Flächeninhalt: " + kegel.berechneFläche()
             +"\n ")
 console.log("Kreis \n Flächeninhalt: " + kreis.berechneFläche() + 
             "\n Umfang: " + kreis.berechneUmfang())
