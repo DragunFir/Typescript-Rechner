@@ -5,7 +5,7 @@ import { Rechteck } from './2D Formen/Rechteck';
 import { Kegel } from './3D Formen/Kegel';
 import { Pyramide } from './3D Formen/Pyramide';
 
-import './style.css';
+import './css/style.css';
 
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
